@@ -2,18 +2,20 @@
 
 Crypto-flipper is console app that find arbitrage orders on Shapeshift.
 
+***
 ### Disclaimer
 
 __USE THE SOFTWARE AT YOUR OWN RISK. YOU ARE RESPONSIBLE FOR YOUR OWN MONEY__
 __THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.__
 
-
+***
 ### Requirements
 
 1) Java 8
 2) Maven (https://maven.apache.org/download.cgi) If you want to build it yourself.
 3) Internet connection
 
+***
 ### HOW TO RUN
 
 1) Download latest version from releases
@@ -32,7 +34,6 @@ OR
 
 ### Parameters
 
-***
 Mandatory params :
 
 `flipper.buy.amount` : Amount you want to trade.
