@@ -28,10 +28,6 @@ public class AssetUtils {
 		loadAssetsFromConfigFile();
 	}
 
-	public static void main(String[] args) {
-		loadAssetsFromConfigFile();
-	}
-
 	private static void loadAssetsFromConfigFile() {
 
 		LOGGER.info("Initializing assets..");
