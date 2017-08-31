@@ -2,6 +2,12 @@
 
 Crypto-flipper is console app that find arbitrage orders on Shapeshift.
 
+Disclaimer
+
+__USE THE SOFTWARE AT YOUR OWN RISK. YOU ARE RESPONSIBLE FOR YOUR OWN MONEY__
+__THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.__
+
+
 <h2>Requirements :</h2> 
 
 1) Java 8
