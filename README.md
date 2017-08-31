@@ -32,6 +32,7 @@ OR
 
 * reconfigure `run-flipper.sh` file with  your params, make sure the script is executable and run it with `./run-flupper.sh` from this directory
 
+***
 ### Parameters
 
 Mandatory params :
