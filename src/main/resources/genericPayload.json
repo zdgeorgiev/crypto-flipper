@@ -1,0 +1,11 @@
+{
+  "type": 2,
+  "reusable": false,
+  "depositAmount": "%s",
+  "pair": "${input-asset}_${output-asset}",
+  "withdrawal": "${withdrawal-address}",
+  "returnAddress": "${return-address}",
+  "terms": true,
+  "jsh": 1,
+  "apiKey": "fakeApiKeyJustHereForTesting"
+}
