@@ -11,12 +11,17 @@ Crypto-flipper is console app that find arbitrage orders on Shapeshift.
 <h2>HOW TO RUN :</h2>
 
 1) Download latest version from releases
+
 OR
+
 * Build manually with `mvn clean install` in this directory
 
 2) Run in terminal 
+
 `java -jar [place to set the mandatory system params] target/crypto-flipper.jar` (system params can be set like this -Dparam.name=param.value)
+
 OR 
+
 * reconfigure `run-flipper.sh` file with  your params, make sure the script is executable and run it with `./run-flupper.sh` from this directory
 
 <h2> System Parameters </h2>
